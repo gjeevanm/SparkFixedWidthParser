@@ -1,13 +1,4 @@
-# Created by .ignore support plugin (hsz.mobi)
-*.class
-*.log
-dist/*
-target/
-lib_managed/
-src_managed/
-project/boot/
-project/plugins/project/
-.history
-.cache
-.lib/
-ansible/*.retry
+target
+docs/_build
+.idea
+*.iml
