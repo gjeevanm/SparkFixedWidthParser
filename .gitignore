@@ -1,9 +1,13 @@
-#IDE
-.idea/
-*.iml
-*.XSLT
-
-# Maven
+# Created by .ignore support plugin (hsz.mobi)
+*.class
+*.log
+dist/*
 target/
-*.XSLT
-*.xsl
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+ansible/*.retry
