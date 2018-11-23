@@ -1,0 +1,7 @@
+target
+docs/_build
+.idea
+*.iml
+*.xml
+*.css
+*.xsl
