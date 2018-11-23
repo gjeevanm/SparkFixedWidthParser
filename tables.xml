@@ -1,0 +1,5 @@
+<tables>
+	<table>cf_transaction</table>
+        <table>cf_customer</table>
+        <table>pr_transaction</table>
+</tables>
