@@ -1,4 +1,4 @@
-name := "Fiserv_1.6_FixedWidth"
+name := "FixedWidthParser"
 
 version := "0.1"
 
